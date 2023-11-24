@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadia-malik&label=Profile%20views&color=0e75b6&style=flat" alt="sadia-malik" /> </p>
 
-- 🌱 I’m currently learning **Web Development/ MERN-Stack on Udemy at IEC**
+- 🌱 I, have completed **Web Development/ MERN-Stack on Udemy at IEC**
 
 - 💬 Ask me about **Frontend/ React.js/ Developer**
 
